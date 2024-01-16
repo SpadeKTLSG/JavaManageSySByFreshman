@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Edu/Edu.iml" filepath="$PROJECT_DIR$/Edu/Edu.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHomeworkColletion.iml" filepath="$PROJECT_DIR$/JavaHomeworkColletion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nuclear/Nuclear.iml" filepath="$PROJECT_DIR$/Nuclear/Nuclear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canteen/canteen.iml" filepath="$PROJECT_DIR$/canteen/canteen.iml" />
     </modules>
   </component>
 </project>
